@@ -1,5 +1,5 @@
 /*
- * 二叉树结点数据结构
+ * 二叉树树节点数据结构
  */
 package com.tx.tree.bean;
 
